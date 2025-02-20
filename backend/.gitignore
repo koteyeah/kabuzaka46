@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.cache
+nogizaka_tracks_features.csv
+nogizaka_tracks_features2.csv
